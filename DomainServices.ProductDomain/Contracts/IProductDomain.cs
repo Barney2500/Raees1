@@ -1,6 +1,6 @@
 ﻿namespace DomainServices.ProductDomain
 {
-    public class Class1
+    public interface IProductDomain
     {
 
     }

@@ -1,6 +1,6 @@
 ﻿namespace DomainServices.Models
 {
-    public class Class1
+    public class ProductBe
     {
 
     }
